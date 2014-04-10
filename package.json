@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/fictorial/haze-aof/issues"
   },
-  "homepage": "https://github.com/fictorial/haze-aof"
+  "homepage": "https://github.com/fictorial/haze-aof",
+  "dependencies": {
+    "haze": "^1.0.0",
+    "underscore": "^1.6.0",
+    "line-reader": "^0.2.3"
+  }
 }
