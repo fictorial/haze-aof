@@ -1,0 +1,28 @@
+{
+  "name": "haze-aof",
+  "version": "1.0.0",
+  "description": "Append-only file storage adapter for the Haze document cache",
+  "main": "haze-aof.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fictorial/haze-aof.git"
+  },
+  "keywords": [
+    "haze",
+    "cache",
+    "append-only",
+    "aof",
+    "database",
+    "storage",
+    "persistence"
+  ],
+  "author": "Brian Hammond <brian@fictorial.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fictorial/haze-aof/issues"
+  },
+  "homepage": "https://github.com/fictorial/haze-aof"
+}
