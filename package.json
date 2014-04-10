@@ -1,6 +1,6 @@
 {
   "name": "haze-aof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Append-only file storage adapter for the Haze document cache",
   "main": "haze-aof.js",
   "scripts": {
